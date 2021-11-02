@@ -32,3 +32,6 @@ The outlined script would look like this:
 - Run project with hover over the green “play” button on the left and press “Run Test”. This button allows executing individual tests marked with a “Test” annotation.
 
 ![image](https://user-images.githubusercontent.com/92636608/139928060-b766a64b-b423-4e1e-bb8b-8afe0a4e84aa.png)
+
+
+---
