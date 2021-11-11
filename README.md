@@ -12,6 +12,7 @@ The outlined script would look like this:
 ![image](https://user-images.githubusercontent.com/92636608/139924331-5f6b8c17-2e8d-477b-946d-691c634d36ed.png)
 
 ---
+
 # Library
 
 - Selenium 3.141.59
@@ -19,6 +20,8 @@ The outlined script would look like this:
 - Maven 3.0.0-M4
 - Chromedriver 95.0.4638.54
 - IntelliJ IDEA 2021 2.3
+
+---
 
 # Setting up the Project
 
@@ -32,6 +35,5 @@ The outlined script would look like this:
 - Run project with hover over the green “play” button on the left and press “Run Test”. This button allows executing individual tests marked with a “Test” annotation.
 
 ![image](https://user-images.githubusercontent.com/92636608/139928060-b766a64b-b423-4e1e-bb8b-8afe0a4e84aa.png)
-
 
 ---
